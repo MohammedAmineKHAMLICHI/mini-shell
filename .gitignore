@@ -1,0 +1,13 @@
+# Binaires et objets
+minishell
+*.o
+
+# Fichiers temporaires
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dossiers de build/tests eventuels
+build/
+dist/
